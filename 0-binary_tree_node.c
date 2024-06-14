@@ -3,9 +3,9 @@
 /**
  * binary_tree_node - used to create a binary tree node
  * @parent: pointer to the parent node of the node to be used
- * @value: value  to be  put in the node
+ * @value: value to be put in the node
  *
- * Return: pointer to the new node else NULL the  on failure
+ * Return: pointer to the new node else NULL the on failure
 */
 
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
@@ -23,48 +23,3 @@ binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 
 	return (new);
 }
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
